@@ -8,7 +8,7 @@ namespace WebApp2tests
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.IsTrue(true);
+            Assert.IsTrue(1 == 1);
         }
     }
 }
